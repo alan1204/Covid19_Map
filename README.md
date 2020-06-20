@@ -1,6 +1,6 @@
 # Covid19_Map
 
-Demo: https://alan1204.github.io/Covid19_Map/
+Live example -> https://alan1204.github.io/Covid19_Map/
 
 Google Maps Api (https://cloud.google.com/maps-platform/)
 
